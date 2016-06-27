@@ -1,0 +1,5 @@
+E:\oDesk\imageresizing\imageresizing\bin\Debug\imageresizing.exe
+E:\oDesk\imageresizing\imageresizing\bin\Debug\imageresizing.pdb
+E:\oDesk\imageresizing\imageresizing\obj\x86\Debug\imageresizing.exe
+E:\oDesk\imageresizing\imageresizing\obj\x86\Debug\imageresizing.pdb
+E:\oDesk\imageresizing\imageresizing\obj\x86\Debug\imageresizing.csprojResolveAssemblyReference.cache
